@@ -1,0 +1,2 @@
+Bellman si Dijkstra iau ca punct de referinta primul nod, sursa, si calculeaza graful minim ca drumul de la sursa la ultimul nod.
+Prim si Kruskal cauta muchiile cele mai ieftine si nu tin cont de sursa si destinatie.
